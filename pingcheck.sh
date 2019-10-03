@@ -1,4 +1,4 @@
 #!/bin/bash
-echo Enter the website to ping:
+echo Enter the url to ping :
 read x
 ping $x.com
